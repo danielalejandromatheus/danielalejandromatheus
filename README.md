@@ -7,7 +7,7 @@ I've worked for 7 years in the IT industry delivering products as an outsourced 
 
 ## 🚀 The stack I usually work with
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
@@ -22,7 +22,7 @@ I've worked for 7 years in the IT industry delivering products as an outsourced 
 ## 🛠 Also Worked With  
 
 ### 🖥️ Languages  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
@@ -30,7 +30,7 @@ I've worked for 7 years in the IT industry delivering products as an outsourced 
 </p>
 
 ### 🚀 Frameworks & Libraries  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white">
@@ -40,16 +40,24 @@ I've worked for 7 years in the IT industry delivering products as an outsourced 
 </p>
 
 ### 🗄️ Databases & Storage  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
 </p>
 
 ### 🔗 Tools  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white">
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white">
   <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white">
 </p>
+
+## 🌱 Currently learning:
+I'm currently learning CD/CI Pipelines to automate the deployment of my web applications!
+
+## 🚧 Under Construction  
+
+I'm still working on building my portfolio, so stay tuned for updates!  
+In the meantime, feel free to check out my repositories or reach out to me.
