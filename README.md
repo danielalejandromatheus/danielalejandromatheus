@@ -32,6 +32,8 @@ I've worked for 7 years in the IT industry delivering products as an outsourced 
 ### 🚀 Frameworks & Libraries  
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-Quasar-1976D2?style=flat&logo=quasar&logoColor=white">
   <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
@@ -44,11 +46,10 @@ I've worked for 7 years in the IT industry delivering products as an outsourced 
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
 </p>
 
-### 🔗 Concepts & Tools  
+### 🔗 Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white">
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
-  <img src="https://img.shields.io/badge/-WebSockets-000000?style=flat&logo=websocket&logoColor=white">
   <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white">
   <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white">
 </p>
