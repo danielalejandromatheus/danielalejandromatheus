@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2501&pause=500&color=8E0000&center=true&multiline=true&width=435&lines=Hey%2C+what's+up%3F;I'm+Daniel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2501&pause=500&color=8E0000&multiline=true&width=435&lines=Hey%2C+what's+up%3F;I'm+Daniel)](https://git.io/typing-svg)
 
 <!--
 **danielalejandromatheus/danielalejandromatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
